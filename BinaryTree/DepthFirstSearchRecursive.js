@@ -29,4 +29,5 @@ b.right = e;
 c.left = f;
 c.right = g;
 
+console.log("//////////////////")
 console.log(depthFirstSearch(a));
